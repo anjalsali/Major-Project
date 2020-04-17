@@ -1,0 +1,12 @@
+python3
+opencv-python
+argparse
+numpy
+datetime
+motpy
+pyqt5
+openpyxl
+time
+imutils
+
+May also required to install some other modules if you are not running linux OS or if the OS lacks some essential modules.
