@@ -11,7 +11,8 @@ Change frameWidth,padding and threshold values of core.py file inside Code direc
 
 # Run Application
 
-run gad.py for running the GUI Application
+For running the GUI Application open Code directory in terminal and run
+python3 gad.py
 
 
 
